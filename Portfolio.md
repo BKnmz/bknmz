@@ -1,12 +1,34 @@
+## Professional Experience
+**Product Owner Compliance | Diconium GmbH (11/2022 - Present)**
+As the Product Owner for Compliance, I lead the strategy and execution for ensuring our products meet rigorous international security and regulatory standards. My role focuses on integrating Governance, Risk, and Compliance (GRC) principles directly into the product development lifecycle.
 
+### Key Accomplishments & Responsibilities:
 
+* Strengthened Regulatory Compliance & Audit Readiness
+I established robust compliance frameworks covering NIST, FedRAMP, GDPR, ISO 27001, and NIS-2. 
+This involved creating comprehensive traceability systems, developing real-time compliance dashboards, and defining multi-level backlogs to ensure continuous audit readiness.
 
+* Enhanced Automotive Cybersecurity
+I performed in-depth cybersecurity analyses of VW platforms to achieve and maintain compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T.
 
+* Drove Measurable Security Improvements
+By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products.
 
+* Led Cross-Functional Collaboration & Training
+I served as the central point of contact between regulatory, development, and component teams to ensure audit success and drive continuous improvement. I also developed and delivered 
+Automotive Cybersecurity Compliance training for over 100 colleagues in 2025 created awareness of the organization's internal capabilities.
+* 📃 [Article version: Module 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/?trackingId=Nmi5Nu9zRD%2BOxw9yKR65%2Bg%3D%3D)
 
+---
+**Senior Business Analyst | Luxoft GmbH (12/2021 - 10/2022)**
+In this role, I facilitated a key Vehicle Toolchain project by leading the configuration and integration of the Codebeamer ALM tool with other systems like Azure DevOps and Confluence. I engaged directly with stakeholders to gather requirements and ensure clear traceability in ADAS systems, enhancing decision-making through dashboard metrics.
 
+---
 
+**Requirements Engineer | Daiichi Electronic (01/2021 - 12/2021)**
+For an infotainment project, I successfully derived over 1000 software and system requirements compliant with ASPICE standards. By aligning requirements management processes, I minimized rework during the testing phase and actively contributed to release planning and change management.
 
+---
 ## Former Experience in Various Sectors
 
 This section highlights projects and analyses from previous roles, demonstrating foundational expertise in data analysis, regional development, and education. For a high-level overview of each project, please view the presentations on SlideShare.

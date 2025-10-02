@@ -16,7 +16,7 @@ I performed in-depth cybersecurity analyses of VW platforms to achieve and maint
 By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products.
 
 #### Led Cross-Functional Collaboration & Training
-I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.
+I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.<br/>
 📃 [Article version: Module 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/?trackingId=Nmi5Nu9zRD%2BOxw9yKR65%2Bg%3D%3D)
 
 ---

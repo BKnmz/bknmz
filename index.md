@@ -51,7 +51,7 @@ This section highlights projects and analyses from previous roles, demonstrating
 
 ---
 
-### Regional Economic Development & Data Analysis 📈
+### Regional Economic Development & Statistical Analysis 📈
 
 These presentations were developed during my role as a Specialist at a Regional Development Agency, where I authored statistical periodicals and consulted for over 200 entrepreneurs annually.
 

@@ -18,7 +18,7 @@ By driving requirement traceability and cross-functional alignment, I successful
 
 #### Led Cross-Functional Collaboration & Training
 I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.<br/>
-The articles below are the output of the Automotive Cybersecurity Compliance training.
+The articles below are the output of the Automotive Cybersecurity Compliance training. <br/>
 📃 [Article 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/) <br/>
 📃 [Article 2: UN R155 vs. China’s GB 44495‑2024: What Automotive Cybersecurity Experts Need to Know](https://www.linkedin.com/pulse/un-r155-vs-chinas-gb-444952024-what-automotive-experts-bugra-kanmaz-4slhf/) <br/>
 
@@ -30,7 +30,7 @@ In this role, I facilitated a key Vehicle Toolchain project by leading the confi
 
 **Requirements Engineer | Daiichi Electronic (01/2021 - 12/2021)**
 For an infotainment project, I successfully derived over 1000 software and system requirements compliant with ASPICE standards. By aligning requirements management processes, I minimized rework during the testing phase and actively contributed to release planning and change management.
-
+---
 ## Let's Connect 🗓️
 
 I'm open to discussing new opportunities, sharing insights on Security Compliance, automating processes via AI, or connecting with fellow professionals in a similar field. Please don't hesitate to book a time that works for you.

@@ -1,30 +1,30 @@
 ## Professional Portfolio
 **Product Owner Compliance | Diconium GmbH (11/2022 - Present)**
 I lead the integration of Governance, Risk, and Compliance (GRC) into the product development lifecycle, ensuring product-level conformity with international security and regulatory standards. <br/>
-My focus is on security requirements management, translating risks into actionable requirements, controls, and auditable evidence. 
-This enables readiness for CSMS, ISMS, and AI governance (AIMS) while maintaining delivery velocity and OEM acceptance.
+My focus is on security requirements management, tracing the regulations and standards to requirements, controls, and preparation for CSMS, ISMS, and QMS (and even AIMS) audits. <br/>
 
 ### Key Accomplishments & Responsibilities:
 
 *Strengthened Regulatory Compliance & Audit Readiness*
-I established robust compliance frameworks covering NIST, FedRAMP, GDPR, ISO 27001, and NIS-2. 
-This involved creating comprehensive traceability systems, developing real-time compliance dashboards, and defining multi-level backlogs to ensure continuous audit readiness.
+I established robust compliance frameworks covering NIST, FedRAMP, GDPR, ISO 27001, and NIS-2. <br/>
+This involved creating comprehensive traceability systems, developing real-time compliance/testing dashboards, and defining multi-level backlogs to ensure continuous audit readiness. <br/>
 
 #### Enhanced Automotive Cybersecurity
-I performed in-depth cybersecurity analyses of VW platforms to achieve and maintain compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T. <br/>
+I conducted in-depth cybersecurity analyses of VW platforms to ensure compliance with critical automotive standards, including ISO 21434, UN R155/156, and China GB/T. <br/>
 🤖 [ISO 21434-CSMS AI Agent](https://github.com/BKnmz/CSMS-Coach) A custom AI assistant developed in Microsoft Copilot to automate Cybersecurity Management System (CSMS) ISO 21434  work products. <br/>
- *Skills: Generative AI, Prompt Engineering, ISO 21434, Process Automation* <br/>
+
 #### Drove Measurable Security Improvements
-By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products.
+By driving requirement traceability and cross-functional alignment, I successfully contributed to improving the security of our products. <br/>
 
 #### Led Cross-Functional Collaboration & Training
 I developed and delivered Automotive Cybersecurity Compliance training for over 100 colleagues in 2025, and created awareness of the organization's internal capabilities.<br/>
+The articles below are the output of the Automotive Cybersecurity Compliance training.
 📃 [Article 1: The overview of Automotive CyberSecurity Regulations and Standards](https://www.linkedin.com/pulse/overview-automotive-cybersecurity-regulations-standards-bugra-kanmaz-on2cf/) <br/>
 📃 [Article 2: UN R155 vs. China’s GB 44495‑2024: What Automotive Cybersecurity Experts Need to Know](https://www.linkedin.com/pulse/un-r155-vs-chinas-gb-444952024-what-automotive-experts-bugra-kanmaz-4slhf/) <br/>
 
 ---
 **Senior Business Analyst | Luxoft GmbH (12/2021 - 10/2022)**
-In this role, I facilitated a key Vehicle Toolchain project by leading the configuration and integration of the Codebeamer ALM tool with other systems like Azure DevOps and Confluence. I engaged directly with stakeholders to gather requirements and ensure clear traceability in ADAS systems, enhancing decision-making through dashboard metrics.
+In this role, I facilitated a key Vehicle Toolchain project by leading the configuration and integration of the Codebeamer ALM tool with other systems like Azure DevOps and Confluence. I directly engaged with business analysts, testers, and other stakeholders to gather requirements and ensure clear traceability in ADAS systems, thereby enhancing decision-making through dashboard metrics.
 
 ---
 
@@ -33,9 +33,9 @@ For an infotainment project, I successfully derived over 1000 software and syste
 
 ## Let's Connect 🗓️
 
-I'm always open to discussing new opportunities, sharing insights on Security Compliance, or connecting with fellow professionals in a similar field. Please don't hesitate to book a time that works for you.
+I'm open to discussing new opportunities, sharing insights on Security Compliance, automating processes via AI, or connecting with fellow professionals in a similar field. Please don't hesitate to book a time that works for you.
 
-[**Book a 30-Minute Meeting on My Calendar**](https://calendly.com/mborakanmaz/30min)
+[**Book a 30-Minute Meeting**](https://calendly.com/mborakanmaz/30min)
 
 ---
 ## Former Experience in Various Sectors
@@ -44,9 +44,10 @@ This section highlights projects and analyses from previous roles, demonstrating
 
 ---
 
-### Automotive Industry
+### Data Analysis
 
 * **➡️ [Basic Data Analysis with Regression](https://www.slideshare.net/slideshow/basic-data-analysis-with-regression/246857285)**: This analysis applies regression models, a technique I later used to increase productivity via task estimation for ECU software industrialization.
+* **➡️ [Cyclistic Case Study - Google Data Analytics Certificate Capstone](https://www.kaggle.com/datasets/mbugra/cyclistic-case-study-capstone-project-1)**: The business task is to analyze how annual members and casual riders use Cyclistic bikes differently. So that appropriate 3 marketing strategies can be recommended to stakeholders.
 
 ---
 

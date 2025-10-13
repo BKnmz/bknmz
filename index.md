@@ -30,6 +30,7 @@ In this role, I facilitated a key Vehicle Toolchain project by leading the confi
 
 **Requirements Engineer | Daiichi Electronic (01/2021 - 12/2021)**
 For an infotainment project, I successfully derived over 1000 software and system requirements compliant with ASPICE standards. By aligning requirements management processes, I minimized rework during the testing phase and actively contributed to release planning and change management.
+
 ---
 ## Let's Connect 🗓️
 

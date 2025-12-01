@@ -2,6 +2,7 @@
 **Product Owner Compliance | Diconium GmbH (11/2022 - Present)**
 I lead the integration of Governance, Risk, and Compliance (GRC) into the product development lifecycle, ensuring product-level conformity with international security and regulatory standards. <br/>
 My focus is on security requirements management, tracing the regulations and standards to requirements, controls, and preparation for CSMS, ISMS, and QMS (and even AIMS) audits. <br/>
+![MyJourney](myjourney.png)
 
 ### Key Accomplishments & Responsibilities:
 
